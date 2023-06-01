@@ -217,6 +217,7 @@
 </p>
 
 <p align="center">
+
 [![Selahattin Güngör C Programlama Armut](https://cdn.armut.com/images/armut-member-badge-colour@2x.png)][1]
 
 [Selahattin Güngör C Programlama][1]
