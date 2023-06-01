@@ -204,11 +204,6 @@
   />
 </p>
 
-[![Selahattin Güngör C Programlama Armut](https://cdn.armut.com/images/armut-member-badge-colour@2x.png)][1]
-[Selahattin Güngör C Programlama][1]
-
-[1]: https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324
-
 <p align="center">
   <img
     align="center"
@@ -217,6 +212,12 @@
   />
 </p>
 
+                        
+[![Selahattin Güngör C Programlama Armut](https://cdn.armut.com/images/armut-member-badge-colour@2x.png)][1]
+[Selahattin Güngör C Programlama][1]
+
+[1]: https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324
+                        
 <p align="center">
 <a href="https://github.com/SelahattinGngr"><img src="https://badge42.vercel.app/api/v2/cli9da70v001608jw3ipf9l3b/stats?cursusId=21&coalitionId=232" alt="segungor's 42 stats" /></a>
 </p>
