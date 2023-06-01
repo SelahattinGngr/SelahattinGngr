@@ -215,11 +215,7 @@
 <p align="center">
 <a href="https://github.com/SelahattinGngr"><img src="https://badge42.vercel.app/api/v2/cli9da70v001608jw3ipf9l3b/stats?cursusId=21&coalitionId=232" alt="segungor's 42 stats" /></a>
 </p>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>GitHub Ana Ekranı</title>
-</head>
+
 <body>
   <div style="display: inline-block !important; text-align: center !important; width: 300px !important; line-height: 1.2 !important; font-family: Trebuchet MS, Helvetica, Arial, sans-serif !important;">
     <a title="Selahattin Güngör C Programlama Armut" href="https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324" style="background: none !important; padding: 0 !important; border: 0 !important;">
