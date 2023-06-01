@@ -223,6 +223,7 @@
 [Selahattin Güngör C Programlama][1]
 
 [1]: https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324
+
 </p>
 
 <p align="center">
