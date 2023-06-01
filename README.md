@@ -221,14 +221,3 @@
     alt="selahattingngr"
   />
 </p>
-
-
-[![Selahattin Güngör C Programlama Armut](https://cdn.armut.com/images/reviews-badge.png)](https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324)
-
-[![Armut Logo](https://cdn.armut.com/images/armut-header-logo-colour@2x.png)](https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324)
-
-### [5,0](https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324)
-
-### [SELAHATTİN GÜNGÖR](https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324)
-
-### [C Programlama](https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324)
