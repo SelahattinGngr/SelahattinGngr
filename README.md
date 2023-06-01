@@ -215,16 +215,32 @@
 <p align="center">
 <a href="https://github.com/SelahattinGngr"><img src="https://badge42.vercel.app/api/v2/cli9da70v001608jw3ipf9l3b/stats?cursusId=21&coalitionId=232" alt="segungor's 42 stats" /></a>
 </p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub Ana Ekranı</title>
+</head>
+<body>
+  <div style="display: inline-block !important; text-align: center !important; width: 300px !important; line-height: 1.2 !important; font-family: Trebuchet MS, Helvetica, Arial, sans-serif !important;">
+    <a title="Selahattin Güngör C Programlama Armut" href="https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324" style="background: none !important; padding: 0 !important; border: 0 !important;">
+      <img src="https://cdn.armut.com/images/reviews-badge.png" width="300" style="padding:0 !important; border: 0 !important;" />
+    </a>
+    <span style="position: relative !important; top: -254px !important;">
+      <img src="https://cdn.armut.com/images/armut-header-logo-colour@2x.png" style="display: block; width: 50%; margin: auto;" />
+    </span>
+    <span style="position: relative !important; top: -194px !important;">
+      <a href="https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324" style="display: block; margin: auto; text-decoration: none !important; font-size: 40px !important; color: rgb(108,183,69) !important; font-weight: bold !important;">5,0</a>
+    </span>
+    <span style="position: relative !important; top: -152px !important;">
+      <a href="https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324" style="display: block; margin: auto; text-decoration: none !important; font-size: 12px !important; color: rgb(108,183,69) !important; font-weight: bold !important; letter-spacing: -0.5px !important;">SELAHATTİN GÜNGÖR</a>
+    </span>
+    <span style="position: relative !important; top: -142px !important;">
+      <a href="https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324" style="display: block; margin: auto; text-decoration: none !important; font-size: 10px !important; color: rgb(255,255,255) !important; font-weight: bold !important; letter-spacing: -0.5px !important;">C Programlama</a>
+    </span>
+  </div>
+</body>
+</html>
 
-<p align="center">
-
-[![Selahattin Güngör C Programlama Armut](https://cdn.armut.com/images/armut-member-badge-colour@2x.png)][1]
-
-[Selahattin Güngör C Programlama][1]
-
-[1]: https://armut.com/hizmetveren/selahattin-gungor-istanbul-uskudar-c-programlama_11769324
-
-</p>
 
 <p align="center">
   <img
