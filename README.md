@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-  src="https://github-profile-trophy.vercel.app/?username=selahattingngr&no-bg=true&no-frame=true&column=-1&row=2""
+  src="https://github-profile-trophy.vercel.app/?username=selahattingngr&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B""
   alt="selahattingngr" />
 </p>
 
