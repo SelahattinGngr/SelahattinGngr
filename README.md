@@ -9,7 +9,7 @@
   alt="selahattingngr" />
 </p>
 
-<h3 align="center">Connect with me</h3>
+<!-- <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/selahattin_gngr" target="blank"
     ><img
@@ -59,9 +59,9 @@
       height="30"
       width="40"
   /></a>
-</p>
+</p> -->
 
-<h3 align="center">Language & Frameworks</h3>
+<h3 align="center">Language & Tool</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
@@ -177,6 +177,7 @@
     />
   </a>
 </p>
+
 <h3 align="center">My Favorite</h3>
 <p align="center">
     <img
@@ -194,6 +195,7 @@
     />
   </a>
 </p>
+
 <p align="center">
   <img
     align="center"
@@ -202,13 +204,13 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     align="center"
     src="https://github-readme-stats-ten-sage-51.vercel.app/api?username=selahattingngr&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true&layout=donut"
     alt="selahattingngr"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
