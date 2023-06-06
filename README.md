@@ -1,6 +1,6 @@
 <p align="center">
   <img
-  src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"/>
+  src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif"width=/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Selahattin</h1>
@@ -11,6 +11,29 @@
   src="https://github-profile-trophy.vercel.app/?username=selahattingngr&no-bg=true&no-frame=true&column=-1&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B""
   alt="selahattingngr" />
 </p>
+
+<p align="center">
+<a href="https://github.com/SelahattinGngr"><img src="https://badge42.vercel.app/api/v2/cli9da70v001608jw3ipf9l3b/stats?cursusId=21&coalitionId=232" alt="segungor's 42 stats" /></a>
+</p>
+
+<h3 align="center">My Favorite</h3>
+<p align="center">
+    <img
+      src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"
+      alt="Clion"
+    />
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+    alt="Idea"    
+    />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+    alt="VScode"
+    />
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"
+    alt="vim"    
+    />
+  </a>
+</p>
+
 
 <!-- <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -181,22 +204,17 @@
   </a>
 </p>
 
-<h3 align="center">My Favorite</h3>
 <p align="center">
-    <img
-      src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"
-      alt="Clion"
-    />
-    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-    alt="Idea"    
-    />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    alt="VScode"
-    />
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"
-    alt="vim"    
-    />
-  </a>
+  <img
+    align="center"
+    src="https://github-readme-stats-ten-sage-51.vercel.app/api?username=selahattingngr&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true&layout=donut"
+    alt="selahattingngr"
+  />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=selahattingngr&theme=github-dark-blue&hide_border=true&card_width=300&hide_longest_streak=true"
+    alt="selahattingngr"
+  />
 </p>
 
 <p align="center">
@@ -205,26 +223,6 @@
     src="https://github-readme-stats-ten-sage-51.vercel.app/api/top-langs?username=selahattingngr&show_icons=true&theme=github_dark&langs_count=5&layout=donut&count_private=true&hide_border=true"
     alt="selahattingngr"
   />
-</p>
-
-<!-- <p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats-ten-sage-51.vercel.app/api?username=selahattingngr&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true&layout=donut"
-    alt="selahattingngr"
-  />
-</p> -->
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=selahattingngr&theme=github-dark-blue&hide_border=true"
-    alt="selahattingngr"
-  />
-</p>
-                        
-<p align="center">
-<a href="https://github.com/SelahattinGngr"><img src="https://badge42.vercel.app/api/v2/cli9da70v001608jw3ipf9l3b/stats?cursusId=21&coalitionId=232" alt="segungor's 42 stats" /></a>
 </p>
 
 <p align="center">
