@@ -59,7 +59,7 @@
   /></a>
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Language & Frameworks</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
