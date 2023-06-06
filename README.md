@@ -195,7 +195,15 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=selahattingngr&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true"
+    src="https://github-readme-stats-ten-sage-51.vercel.app/api/top-langs?username=selahattingngr&show_icons=true&theme=github_dark&langs_count=7&layout=donut&count_private=true&hide_border=true"
+    alt="selahattingngr"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats-ten-sage-51.vercel.app/api?username=selahattingngr&show_icons=true&theme=github_dark&layout=compact&count_private=true&hide_border=true&layout=donut"
     alt="selahattingngr"
   />
 </p>
