@@ -197,7 +197,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats-ten-sage-51.vercel.app/api/top-langs?username=selahattingngr&show_icons=true&theme=github_dark&langs_count=7&layout=donut&count_private=true&hide_border=true"
+    src="https://github-readme-stats-ten-sage-51.vercel.app/api/top-langs?username=selahattingngr&show_icons=true&theme=github_dark&langs_count=5&layout=donut&count_private=true&hide_border=true"
     alt="selahattingngr"
   />
 </p>
