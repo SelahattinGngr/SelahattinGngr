@@ -59,7 +59,7 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
@@ -85,6 +85,26 @@
       height="40"
     />
   </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+      alt="rust"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -100,14 +120,6 @@
       width="40"
       height="40"
     />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
@@ -144,14 +156,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
@@ -161,6 +165,7 @@
     />
   </a>
 </p>
+
 <h3 align="center">Play Game With Me</h3>
 <p align="center">
 <a href="https://steamcommunity.com/id/selahattingungor/" target="_blank" rel="noreferrer">
