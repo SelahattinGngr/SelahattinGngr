@@ -30,14 +30,14 @@
                 width="60"
                 height="60"/>
     </a>
-    <a href="https://golang.org"
+<!--<a href="https://golang.org"
         target="_blank" 
         rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
                 alt="go" 
                 width="60" 
                 height="60"/>
-    </a>
+    </a>-->
     <a href="https://www.java.com" 
         arget="_blank" 
         rel="noreferrer"> 
@@ -129,7 +129,7 @@
                 height="60"
             /> 
     </a>
-    <a href="https://kubernetes.io" 
+<!--<a href="https://kubernetes.io" 
         target="_blank" 
         rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
@@ -137,7 +137,7 @@
                 width="60" 
                 height="60"
             /> 
-    </a> 
+    </a>--> 
     <a href="https://www.linux.org/" 
         target="_blank" 
         rel="noreferrer">
