@@ -46,14 +46,14 @@
                 width="60" 
                 height="60"/>
     </a>
-      <a href="https://www.python.org/" 
+    <!--  <a href="https://www.python.org/" 
         arget="_blank" 
         rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-vertical.svg" 
                 alt="python" 
                 width="60" 
                 height="60"/>
-    </a>
+    </a> -->
  <!--   <a href="https://www.rust-lang.org" 
         target="_blank" 
         rel="noreferrer"> 
