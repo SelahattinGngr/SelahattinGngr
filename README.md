@@ -38,14 +38,6 @@
                 width="60" 
                 height="60"/>
     </a>
-    <a href="https://www.python.org/" 
-        arget="_blank" 
-        rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-vertical.svg" 
-                alt="python" 
-                width="60" 
-                height="60"/>
-    </a>
 </p>
 
 <h3 align="center">Databases</h3>
