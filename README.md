@@ -41,7 +41,7 @@
 </p>
 
 <h3 align="center">Databases</h3>
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.microsoft.com/en-us/sql-server" 
         target="_blank" 
         rel="noreferrer"> 
@@ -50,7 +50,7 @@
                 width="60" 
                 height="60"
         /> 
-    </a> 
+    </a> -->
     <a href="https://www.mysql.com/" 
         target="_blank" 
         rel="noreferrer"> 
