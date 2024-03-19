@@ -38,19 +38,30 @@
                 width="60" 
                 height="60"/>
     </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="60"
+      height="60"
+    />
+  </a>
 </p>
 
 <h3 align="center">Databases</h3>
 <p align="center">
-<!--    <a href="https://www.microsoft.com/en-us/sql-server" 
-        target="_blank" 
-        rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-                alt="mssql" 
-                width="60" 
-                height="60"
-        /> 
-    </a> -->
     <a href="https://www.mysql.com/" 
         target="_blank" 
         rel="noreferrer"> 
@@ -68,7 +79,15 @@
                 width="60" 
                 height="60"
         /> 
-    </a> 
+    </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="center">Frameworks</h3>
@@ -81,6 +100,30 @@
                 width="60"
                 height="60"
         />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="60"
+      height="60"
+    />
   </a>
 </p>
 
@@ -104,7 +147,7 @@
                 height="60"
             /> 
     </a>
-<!--<a href="https://kubernetes.io" 
+<a href="https://kubernetes.io" 
         target="_blank" 
         rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
@@ -112,7 +155,7 @@
                 width="60" 
                 height="60"
             /> 
-    </a>--> 
+    </a>
     <a href="https://www.linux.org/" 
         target="_blank" 
         rel="noreferrer">
@@ -122,6 +165,14 @@
                 height="60"
             />
     </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="60"
+      height="60"
+    />
+  </a>
 </p>
 <h3 align="center">My Favorite</h3>
 <p align="center">
